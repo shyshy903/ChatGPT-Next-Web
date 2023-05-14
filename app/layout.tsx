@@ -8,7 +8,7 @@ const buildConfig = getBuildConfig();
 
 export const metadata = {
   title: "chat-gpt assistant",
-  description: "your personal chat-gpt assistant.",
+  description: "your personal chat-gpt assistant",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -19,7 +19,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "chat-gpt assistant",
     statusBarStyle: "default",
   },
 };
